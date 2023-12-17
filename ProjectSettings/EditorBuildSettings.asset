@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/controller.unity
+    path: Assets/Scenes/GameFull2D.unity
     guid: 50f97570a1c51c447b08617d6d6d3607
   - enabled: 1
     path: Assets/Plugins/GameCreator/Examples/Scenes/Example-Intro.unity
